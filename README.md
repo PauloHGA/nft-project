@@ -1,2 +1,1 @@
-# nft-project
-my fist nft
+collection: https://opensea.io/collection/robot-make-art
